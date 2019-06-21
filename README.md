@@ -7,3 +7,4 @@
 4-1 永无尽头 --- 链模式（Operate Of Responsibility）
 4-2 未来预言家 --- 委托模式 (Entrust)
 4-3 数据管理器 --- 数据访问对象模式（Data access object - DAO）
+4-4 执行控制 --- 节流模式（Throttler）
