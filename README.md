@@ -9,3 +9,4 @@
 4-3 数据管理器 --- 数据访问对象模式（Data access object - DAO）
 4-4 执行控制 --- 节流模式（Throttler）
 4-5 卡片拼图 --- 简单模版模式 （Simple Template）
+4-6 机器学习 --- 惰性模式（layier）
