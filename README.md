@@ -11,3 +11,4 @@
 4-5 卡片拼图 --- 简单模版模式 （Simple Template）
 4-6 机器学习 --- 惰性模式（layier）
 4-7 异国战场 --- 参与者模式（participator）
+4-8 入场仪式 --- 等待着模式（waiter）
